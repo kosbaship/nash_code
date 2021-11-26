@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>884011833177-ptop6ed0cadffg2427n6nul5mia00b4a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.884011833177-ptop6ed0cadffg2427n6nul5mia00b4a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9DcmL4wAbca0Ya_P9dloZViXtQS6tcRk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>884011833177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nashmeyah.nashCode</string>
+	<key>PROJECT_ID</key>
+	<string>gasoline-67020</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gasoline-67020.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:884011833177:ios:2df64d2f80f79f228ede48</string>
+</dict>
+</plist>
