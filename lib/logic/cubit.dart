@@ -12,7 +12,7 @@ class HomeCubit extends Cubit<HomeStats> {
   CloudFirestoreService _service = CloudFirestoreService();
 
   getDataFromServer() {
-    _service.getDatafromServer().then((value) {
+    _service.getDataFromServer().then((value) {
       uiString = value;
       emit(HomeGetDataFromServerState());
     });
