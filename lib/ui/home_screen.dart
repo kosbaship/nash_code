@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
       ),
       body: BlocConsumer<HomeCubit, HomeStats>(
         listener: (context, state) {
-          if (state is HomeChangeClounterState) {
+          if (state is HomeChangeCounterState) {
             showSnackBar(context: context, massage: 'Counter Done');
           }
         },
